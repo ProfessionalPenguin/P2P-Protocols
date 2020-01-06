@@ -23,8 +23,8 @@ converges.
 
 Building and Execution instructions
 
-Naviagate into the folder Assignment2
-cd Assignment2
+Naviagate into the folder P2P-Protocols
+cd P2P-Protocols
 
 Create the executible file
 mix escript.build
